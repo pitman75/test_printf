@@ -11,3 +11,7 @@ Configuration of sources:
  - Output byte stream address      : 0x20100000
 
 It use *xpack-riscv-none-elf-gcc* to build baremetal program, other tools of gcc to build files for RAM/Flash.
+
+Result of work
+
+![test_result_hello](https://github.com/pitman75/test_printf/assets/12179612/9b9cd75b-de3c-4969-a72a-617c502fc911)
