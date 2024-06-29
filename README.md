@@ -7,7 +7,7 @@ Configuration of sources:
  - Flash for program start address: 0x80000000
  - Flash for program size         : 0x100000
  - RAM for data start address      : 0x20000000
- - RAM for data size               : 0x6000
+ - RAM for data size               : 0x8000
  - Output byte stream address      : 0x20100000
 
 It use *xpack-riscv-none-elf-gcc* to build baremetal program, other tools of gcc to build files for RAM/Flash.
